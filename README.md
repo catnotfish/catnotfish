@@ -1,16 +1,14 @@
-## Hi there 👋
+# Felype | Purple Team Jr
 
-<!--
-**catnotfish/catnotfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛡️ Ofensiva & Defesa
+- **Red Team Focus**: Penetration Testing, Active Directory, Privilege Escalation
+- **Certificações**: SYCP ✓ | CompTIA PenTest+ (em progresso) | OSCP (2026 roadmap)
+- **Stack**: Python, Bash, Powershell
 
-Here are some ideas to get you started:
+## 🎯 Atualmente
+- Desenvolvendo skills em AD offensive techniques
+- Estudando TryHackMe (PenTest+) + HackTheBox Penetration Tester Path
+- Documentando relatórios de pentest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catnotfish&theme=nightowl&hide=html)
